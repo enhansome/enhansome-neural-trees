@@ -1,0 +1,544 @@
+{
+  "items": [
+    {
+      "description": "Neural trees (NTs) refer to a school of methods that combine neural networks (NNs) and decision trees (DTs), for which we present a comprehensive review in this survey. Our keynote is to identify how these approaches enhance the model interpretability and suggest possible solutions to the remaining challenges. Besides, we provide a discussion about other considerations like conditional computation and promising directions towards this field, in hope to advance the practice of NTs.",
+      "items": [],
+      "title": "Introduction"
+    },
+    {
+      "description": "If you find this survey useful for your research, please consider citing\nThanks!",
+      "items": [],
+      "title": "Citation"
+    },
+    {
+      "description": "In this survey, we present a thorough taxonomy for NTs that expresses the gradual integration and co-evolution of NNs and DTs.",
+      "items": [],
+      "title": "A Taxonomy of Current Methods"
+    },
+    {
+      "description": "These approaches are the very first to combine NNs and DTs. They employ DTs as auxiliaries for NNs as well as using NNs as tools to improve the design of DTs. In these approaches, \"neural\" and \"tree\" are separated, i.e., one of NN and DT is assigned to accomplish a specific task, while the other performs as its assistant or interpreter. It can date back to the early 1990s when DTs were supposed to provide structural priors for NNs or extract rules from a trained NN. They are perceived implicit combinations of NNs and DTs, because NNs and DTs still operate on their own paradigms and no hybrid model is produced.",
+      "items": [],
+      "title": "1. Non-hybrid: NNs and DTs Cooperated Approaches."
+    },
+    {
+      "description": "Apply DTs to interpret trained NNs by approximating the network (mostly in terms of input-output mapping) and mimic the decision boundaries implicitly learned by the hidden layers.",
+      "items": [],
+      "title": "1.2 DTs for Approximating NNs."
+    },
+    {
+      "description": "DT algorithms have two key ideas: \"decision\" and \"tree\". We view that \"decision\" is decision branches implemented by routing functions, and \"tree\" is the model topology that identifies a class hierarchy. This survey tries to include NNs that draw on a part of ideas from DTs, either the class hierarchy or the decision branches, but not both. These approaches are considered to be half and implicit integration of NNs and DTs. They borrow some inherent ideas from DTs for NNs, instead of designing a NN that works like a DT. However, we only concern about the former in our taxonomy, i.e., NNs leveraging class hierarchies. These approaches can not implement the class hierarchy in the network structure due to the absence of decision branches, so they resort to incorporating the hierarchical relations into a NN directly. There are three lines of research: hierarchical architecture, hierarchical loss function and label embedding based methods, corresponding to different strategies of employing class hierarchies.\nOverview of NNs exploiting class hierarchies:\nFunctions and notations in the figure are adopted from Bertinetto et al.:",
+      "items": [],
+      "title": "2. Semi-hybrid: NNs Leveraging Class Hierarchies."
+    },
+    {
+      "description": "These methods attempt to incorporate the class hierarchy into the architecture of the classifier, so that the networks are designed to be branched and each branch is tasked to identify the concept abstraction at one specific level of the class hierarchy.",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Hierarchical multi-label classification using local neural networks",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "\"HD-CNN: Hierarchical Deep Convolutional Neural Networks for Large Scale Visual Recognition\", ICCV, 2015",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "[Paper]",
+                  "description": "[Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2025-12-18T10:08:07Z",
+                    "owner": "Changgang-Zheng",
+                    "repo": "HD-CNN",
+                    "stars": 10
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "\"Your \"Flamingo\" is My \"Bird\": Fine-Grained, or Not\", CVPR, 2021",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "[Paper]",
+                  "description": "[Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2023-09-27T13:56:52Z",
+                    "owner": "PRIS-CV",
+                    "repo": "Fine-Grained-or-Not",
+                    "stars": 65
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Interactions between different branches",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "\"Label Relation Graphs Enhanced Hierarchical Residual Network for Hierarchical Multi-Granularity Classification\", CVPR, 2022",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "[Paper]",
+                  "description": "[Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2022-03-24T12:03:43Z",
+                    "owner": "MonsterZhZh",
+                    "repo": "HRN",
+                    "stars": 60
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "title": "2.1 Hierarchical Architecture."
+    },
+    {
+      "description": "Incorporate the class hierarchy into loss functions, which exploits the underlying hierarchical relationships and produce predictions coherent with the pre-defined class hierarchy.",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Predict at each grain separately, i.e., first take a model pre-trained on one level, then tune it using labels from other levels",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "\"Coherent Hierarchical Multi-Label Classification Networks\", NIPS, 2020",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "[Paper]",
+                  "description": "[Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2023-05-04T07:59:01Z",
+                    "owner": "EGiunchiglia",
+                    "repo": "C-HMCNN",
+                    "stars": 90
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Utilize the hierarchical constraints directly",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "\"Large-Scale Object Classification Using Label Relation Graphs\", ECCV, 2018",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "[Paper]",
+                  "description": "[Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Matlab",
+                    "last_commit": "2017-07-06T04:26:42Z",
+                    "owner": "kylemin",
+                    "repo": "HEX-graph",
+                    "stars": 19
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "title": "2.2 Hierarchical Loss Function."
+    },
+    {
+      "description": "These approaches aim to encode the class hierarchy into embeddings whose relative locations or possible interactions represent the semantic relationships.",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "DeViSE method that utilizes unannotated Wikipedia text",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "\"DeViSE: A Deep Visual-Semantic Embedding Model\", NIPS, 2013",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "[Paper]",
+                  "description": "[Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2018-01-15T03:03:53Z",
+                    "owner": "jean4599",
+                    "repo": "DeViSE",
+                    "stars": 18
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Embeddings whose pair-wise dot products correspond to semantic similarity between classes",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "\"Hierarchy-Based Image Embeddings for Semantic Image Retrieval\", WACV, 2019",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "[Paper]",
+                  "description": "[Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2021-04-26T08:40:50Z",
+                    "owner": "cvjena",
+                    "repo": "semantic-embeddings",
+                    "stars": 268
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Employ the entailment cones to learn order-preserving embeddings",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "\"Hierarchical Image Classification Using Entailment Cone Embeddings\", CVPR, 2020",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "[Paper]",
+                  "description": "[Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2023-02-02T05:19:18Z",
+                    "owner": "ankitdhall",
+                    "repo": "learning_embeddings",
+                    "stars": 22
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "title": "2.3 Label Embedding."
+    },
+    {
+      "description": "Neural Decision Trees (NDTs) are hybrid NN models that implement both the class hierarchy and the decision branches. Their core idea is to exploit NNs in the tree design by making the routing functions differentiable, thus allowing gradient descent-based methods to optimize.",
+      "items": [],
+      "title": "3. Hybrid: Neural Decision Trees."
+    },
+    {
+      "description": "If a NDT satisfies this property, it means each internal node is assigned a specific and intermediate classification task. This \"divide-and-conquer\" strategy and stepwise inference process make the model more interpretable, because each node in the tree is responsible and distinguishable from other nodes.",
+      "items": [],
+      "title": "3.1 Neural Decision Trees with Class Hierarchies."
+    },
+    {
+      "description": "A bigot NDT tends to have a pre-defined structure and determine leaves (pure classes or fixed class distributions) by priors or algorithms such that induce the class hierarchy.",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Bigot NDTs with pure leaves",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "\"NBDT: Neural-Backed Decision Trees\", ICCV, 2020",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "[Paper]",
+                  "description": "[Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2020-09-18T23:02:04Z",
+                    "owner": "alvinwan",
+                    "repo": "nbdt-pytorch-image-models",
+                    "stars": 16
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Bigot NDTs with determined leaf distributions",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "\"Distilling a Neural Network Into a Soft Decision Tree\", AI*IA, 2017",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "[Paper]",
+                  "description": "[Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2018-12-23T09:53:45Z",
+                    "owner": "kimhc6028",
+                    "repo": "soft-decision-tree",
+                    "stars": 306
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "\"Deep Neural Decision Forests\", ICCV, 2015",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "[Paper]",
+                  "description": "[Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2019-06-28T02:38:02Z",
+                    "owner": "jingxil",
+                    "repo": "Neural-Decision-Forests",
+                    "stars": 166
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "\"Deep Regression Forests for Age Estimation\", CVPR, 2018",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "[Paper]",
+                  "description": "[Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2019-02-11T06:29:55Z",
+                    "owner": "Sakura03",
+                    "repo": "age_trans",
+                    "stars": 9
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "\"Neural Prototype Trees for Interpretable Fine-Grained Image Recognition\", CVPR, 2021",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "[Paper]",
+                  "description": "[Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2022-06-30T06:17:49Z",
+                    "owner": "M-Nauta",
+                    "repo": "ProtoTree",
+                    "stars": 111
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Bigot NDTs for knowledge distillation",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "\"Distilling a Neural Network Into a Soft Decision Tree\", AI*IA, 2017",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "[Paper]",
+                  "description": "[Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2018-12-23T09:53:45Z",
+                    "owner": "kimhc6028",
+                    "repo": "soft-decision-tree",
+                    "stars": 306
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "title": "3.1.2 Bigot NDTs."
+    },
+    {
+      "description": "NDTs without class hierarchies restrain themselves little and perform arbitrary predictions at the leaves. Their leaf nodes are usually classifiers rather than determined classes or distributions.",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Generalized HMEs in advanced frameworks",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "\"Deep Neural Decision Trees\", arXiv, 2018",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "[Paper]",
+                  "description": "[Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2022-03-18T11:02:05Z",
+                    "owner": "wOOL",
+                    "repo": "DNDT",
+                    "stars": 166
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "\"ViT-NeT: Interpretable Vision Transformers with Neural Tree Decoder\", ICML, 2022",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "[Paper]",
+                  "description": "[Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2025-10-15T02:08:40Z",
+                    "owner": "jumpsnack",
+                    "repo": "ViT-NeT",
+                    "stars": 41
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Expert NDTs with architecture search phase",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "\"Adaptive Neural Trees\", ICML, 2019",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "[Paper]",
+                  "description": "[Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2019-07-03T10:52:28Z",
+                    "owner": "rtanno21609",
+                    "repo": "AdaptiveNeuralTrees",
+                    "stars": 156
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "\"Self-Born Wiring for Neural Trees\", ICCV, 2021",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "[Paper]",
+                  "description": "[Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2021-12-10T09:38:09Z",
+                    "owner": "HollyLee2000",
+                    "repo": "SeBoW-paddle",
+                    "stars": 11
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "title": "3.2 Expert NDTs (NDTs without Class Hierarchies)"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T20:19:04.340Z",
+    "original_repository": "zju-vipa/awesome-neural-trees",
+    "original_repository_sha": "dc386dc8d5eeb4648d9a6aa908cd0456911fa43b",
+    "enhanced_repository": "enhansome/enhansome-neural-trees",
+    "enhanced_repository_description": null,
+    "title": "Awesome Neural Tree Papers with stars"
+  }
+}
