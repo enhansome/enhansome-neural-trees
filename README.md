@@ -282,7 +282,7 @@ class hierarchy.
     * Ricardo Cerri *et al.*
     * [\[Paper\]](https://link.springer.com/article/10.1186/s12859-016-1232-1)
   * **"HD-CNN: Hierarchical Deep Convolutional Neural Networks for Large Scale Visual Recognition"**, ICCV, 2015
-    * [\[Paper\]](https://openaccess.thecvf.com/content_iccv_2015/html/Yan_HD-CNN_Hierarchical_Deep_ICCV_2015_paper.html) [\[Code\]](https://github.com/Changgang-Zheng/HD-CNN) ⭐ 10 | 🐛 2 | 🌐 Python | 📅 2025-12-18
+    * [\[Paper\]](https://openaccess.thecvf.com/content_iccv_2015/html/Yan_HD-CNN_Hierarchical_Deep_ICCV_2015_paper.html) [\[Code\]](https://github.com/Changgang-Zheng/HD-CNN) ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2025-12-18
     * Zhicheng Yan *et al.*
   * **"Your "Flamingo" is My "Bird": Fine-Grained, or Not"**, CVPR, 2021
     * [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2021/html/Chang_Your_Flamingo_is_My_Bird_Fine-Grained_or_Not_CVPR_2021_paper.html) [\[Code\]](https://github.com/PRIS-CV/Fine-Grained-or-Not) ⭐ 65 | 🐛 1 | 🌐 Python | 📅 2023-09-27
@@ -545,4 +545,4 @@ leaf nodes are usually classifiers rather than determined classes or distributio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
