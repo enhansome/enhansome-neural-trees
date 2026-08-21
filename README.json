@@ -449,7 +449,7 @@
                             "last_commit": "2022-03-18T11:02:05Z",
                             "owner": "wOOL",
                             "repo": "DNDT",
-                            "stars": 166
+                            "stars": 165
                           }
                         }
                       ]
@@ -544,7 +544,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T20:01:05.194Z",
+    "last_updated": "2026-08-21T19:55:55.117Z",
     "original_repository": "zju-vipa/awesome-neural-trees",
     "original_repository_id": 531176012,
     "original_repository_sha": "dc386dc8d5eeb4648d9a6aa908cd0456911fa43b",

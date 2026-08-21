@@ -529,7 +529,7 @@ leaf nodes are usually classifiers rather than determined classes or distributio
     * Yani Ioannou *et al.* *(hybrid model between decision forests and convolutional networks)*
     * [\[Paper\]](https://arxiv.org/abs/1603.01250)
   * **"Deep Neural Decision Trees"**, arXiv, 2018
-    * [\[Paper\]](https://arxiv.org/abs/1806.06988) [\[Code\]](https://github.com/wOOL/DNDT) ⭐ 166 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2022-03-18
+    * [\[Paper\]](https://arxiv.org/abs/1806.06988) [\[Code\]](https://github.com/wOOL/DNDT) ⭐ 165 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2022-03-18
     * Yongxin Yang, Irene Garcia Morillo, Timothy M Hospedales *(bin each feature of the input instance and determine the leaf node it will arrive)*
   * **"ViT-NeT: Interpretable Vision Transformers with Neural Tree Decoder"**, ICML, 2022
     * [\[Paper\]](https://proceedings.mlr.press/v162/kim22g.html) [\[Code\]](https://github.com/jumpsnack/ViT-NeT) ⭐ 41 | 🐛 4 | 🌐 Python | 📅 2025-10-15
@@ -545,4 +545,4 @@ leaf nodes are usually classifiers rather than determined classes or distributio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
