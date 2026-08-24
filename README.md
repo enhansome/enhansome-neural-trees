@@ -215,8 +215,8 @@ their approximation target is the input-output relationship
 
 * ***Generalized eclectic techniques***
   * **"Global Model Interpretation Via Recursive Partitioning"**, HPCC/SmartCity/DSS, 2018
-    * Chengliang Yang, Anand Rangarajan, Sanjay Ranka *(CART tree learned from the contribution matrix and applied to scene understanding tasks)*
     * [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/8622994) [\[Code\]](https://github.com/west-gates/GIRP) ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2019-09-26
+    * Chengliang Yang, Anand Rangarajan, Sanjay Ranka *(CART tree learned from the contribution matrix and applied to scene understanding tasks)*
   * **"Interpreting CNNs via Decision Trees"**, CVPR, 2019
     * Quanshi Zhang *et al.* *(encodes all potential decision modes of the CNN in a coarse-to-fine manner)*
     * [\[Paper\]](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Interpreting_CNNs_via_Decision_Trees_CVPR_2019_paper.html)
@@ -227,8 +227,8 @@ These approaches train NNs that resemble compact DTs through crafted regularizat
 
 * ***Tree regularization***
   * **"Beyond Sparsity: Tree Regularization of Deep Models for Interpretability"**, AAAI, 2018
-    * Mike Wu *et al.* *(a complexity penalty function that aims to optimize the deep model for interpretability and human-simulatability)*
     * [\[Paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/11501) [\[Code\]](https://github.com/dtak/tree-regularization-public) ⭐ 80 | 🐛 4 | 🌐 Python | 📅 2018-01-04
+    * Mike Wu *et al.* *(a complexity penalty function that aims to optimize the deep model for interpretability and human-simulatability)*
   * **"Regional Tree Regularization for Interpretability in Deep Neural Networks"**, AAAI, 2020
     * Mike Wu *et al. (extended work of tree regularization that encourage a deep model to be approximated by several separate DTs specific to pre-defined regions of the input space)*
     * [\[Paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/6112)
@@ -426,8 +426,8 @@ A comparison between NDTs according to whether it implements a class hierarchy a
     * Alberto Suárez, James F Lutsko *(superimpose a fuzzy structure over the skeleton of a CART tree and introduce a global optimization algorithm)*
     * [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/817409)
   * **"Budding Trees"**, ICPR, 2014
-    * Ozan Irsoy, Olcay Taner Yildiz, Ethem Alpaydin *(a FDT model that can be dynamically adjusted)*
     * [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/6977328) [\[Code\]](https://github.com/oir/budding-tree) ⭐ 8 | 🐛 0 | 🌐 C++ | 📅 2014-08-24
+    * Ozan Irsoy, Olcay Taner Yildiz, Ethem Alpaydin *(a FDT model that can be dynamically adjusted)*
   * **"Convolutional Decision Trees for Feature Learning and Segmentation"**, GCPR, 2014
   * Dmitry Laptev, Joachim M Buhmann *(applies fuzzy NDTs to image segmentation by extracting the most informative and interpretable features)*
   * [\[Paper\]](https://link.springer.com/chapter/10.1007/978-3-319-11752-2_8)
@@ -545,4 +545,4 @@ leaf nodes are usually classifiers rather than determined classes or distributio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
