@@ -21,7 +21,7 @@
                           "children": [
                             {
                               "node_type": "item",
-                              "title": "[Paper]",
+                              "title": "west-gates/GIRP",
                               "description": "[Code]",
                               "children": [],
                               "repo_info": {
@@ -57,7 +57,7 @@
                           "children": [
                             {
                               "node_type": "item",
-                              "title": "[Paper]",
+                              "title": "dtak/tree-regularization-public",
                               "description": "[Code]",
                               "children": [],
                               "repo_info": {
@@ -105,7 +105,7 @@
                       "children": [
                         {
                           "node_type": "item",
-                          "title": "[Paper]",
+                          "title": "Changgang-Zheng/HD-CNN",
                           "description": "[Code]",
                           "children": [],
                           "repo_info": {
@@ -127,7 +127,7 @@
                       "children": [
                         {
                           "node_type": "item",
-                          "title": "[Paper]",
+                          "title": "PRIS-CV/Fine-Grained-or-Not",
                           "description": "[Code]",
                           "children": [],
                           "repo_info": {
@@ -156,7 +156,7 @@
                       "children": [
                         {
                           "node_type": "item",
-                          "title": "[Paper]",
+                          "title": "MonsterZhZh/HRN",
                           "description": "[Code]",
                           "children": [],
                           "repo_info": {
@@ -192,7 +192,7 @@
                       "children": [
                         {
                           "node_type": "item",
-                          "title": "[Paper]",
+                          "title": "EGiunchiglia/C-HMCNN",
                           "description": "[Code]",
                           "children": [],
                           "repo_info": {
@@ -221,7 +221,7 @@
                       "children": [
                         {
                           "node_type": "item",
-                          "title": "[Paper]",
+                          "title": "kylemin/HEX-graph",
                           "description": "[Code]",
                           "children": [],
                           "repo_info": {
@@ -257,7 +257,7 @@
                       "children": [
                         {
                           "node_type": "item",
-                          "title": "[Paper]",
+                          "title": "jean4599/DeViSE",
                           "description": "[Code]",
                           "children": [],
                           "repo_info": {
@@ -286,7 +286,7 @@
                       "children": [
                         {
                           "node_type": "item",
-                          "title": "[Paper]",
+                          "title": "cvjena/semantic-embeddings",
                           "description": "[Code]",
                           "children": [],
                           "repo_info": {
@@ -315,7 +315,7 @@
                       "children": [
                         {
                           "node_type": "item",
-                          "title": "[Paper]",
+                          "title": "ankitdhall/learning_embeddings",
                           "description": "[Code]",
                           "children": [],
                           "repo_info": {
@@ -360,7 +360,7 @@
                           "children": [
                             {
                               "node_type": "item",
-                              "title": "[Paper]",
+                              "title": "oir/budding-tree",
                               "description": "[Code]",
                               "children": [],
                               "repo_info": {
@@ -396,7 +396,7 @@
                           "children": [
                             {
                               "node_type": "item",
-                              "title": "[Paper]",
+                              "title": "alvinwan/nbdt-pytorch-image-models",
                               "description": "[Code]",
                               "children": [],
                               "repo_info": {
@@ -425,7 +425,7 @@
                           "children": [
                             {
                               "node_type": "item",
-                              "title": "[Paper]",
+                              "title": "kimhc6028/soft-decision-tree",
                               "description": "[Code]",
                               "children": [],
                               "repo_info": {
@@ -447,7 +447,7 @@
                           "children": [
                             {
                               "node_type": "item",
-                              "title": "[Paper]",
+                              "title": "jingxil/Neural-Decision-Forests",
                               "description": "[Code]",
                               "children": [],
                               "repo_info": {
@@ -469,7 +469,7 @@
                           "children": [
                             {
                               "node_type": "item",
-                              "title": "[Paper]",
+                              "title": "Sakura03/age_trans",
                               "description": "[Code]",
                               "children": [],
                               "repo_info": {
@@ -491,7 +491,7 @@
                           "children": [
                             {
                               "node_type": "item",
-                              "title": "[Paper]",
+                              "title": "M-Nauta/ProtoTree",
                               "description": "[Code]",
                               "children": [],
                               "repo_info": {
@@ -520,7 +520,7 @@
                           "children": [
                             {
                               "node_type": "item",
-                              "title": "[Paper]",
+                              "title": "kimhc6028/soft-decision-tree",
                               "description": "[Code]",
                               "children": [],
                               "repo_info": {
@@ -561,7 +561,7 @@
                       "children": [
                         {
                           "node_type": "item",
-                          "title": "[Paper]",
+                          "title": "wOOL/DNDT",
                           "description": "[Code]",
                           "children": [],
                           "repo_info": {
@@ -583,7 +583,7 @@
                       "children": [
                         {
                           "node_type": "item",
-                          "title": "[Paper]",
+                          "title": "jumpsnack/ViT-NeT",
                           "description": "[Code]",
                           "children": [],
                           "repo_info": {
@@ -612,7 +612,7 @@
                       "children": [
                         {
                           "node_type": "item",
-                          "title": "[Paper]",
+                          "title": "rtanno21609/AdaptiveNeuralTrees",
                           "description": "[Code]",
                           "children": [],
                           "repo_info": {
@@ -634,7 +634,7 @@
                       "children": [
                         {
                           "node_type": "item",
-                          "title": "[Paper]",
+                          "title": "HollyLee2000/SeBoW-paddle",
                           "description": "[Code]",
                           "children": [],
                           "repo_info": {
@@ -666,7 +666,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T20:01:36.660Z",
+    "last_updated": "2026-08-25T06:35:23.685Z",
     "original_repository": "zju-vipa/awesome-neural-trees",
     "original_repository_id": 531176012,
     "original_repository_sha": "dc386dc8d5eeb4648d9a6aa908cd0456911fa43b",
