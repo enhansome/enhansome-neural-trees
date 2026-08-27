@@ -666,9 +666,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T22:30:05.184Z",
-    "original_repository": "zju-vipa/awesome-neural-trees",
-    "original_repository_id": 531176012,
+    "last_updated": "2026-08-27T11:51:59.897Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 531176012,
+      "language": null,
+      "last_commit": "2022-11-16T12:19:10Z",
+      "owner": "zju-vipa",
+      "repo": "awesome-neural-trees",
+      "stars": 86
+    },
     "original_repository_sha": "dc386dc8d5eeb4648d9a6aa908cd0456911fa43b",
     "enhanced_repository": "enhansome/enhansome-neural-trees",
     "enhanced_repository_description": null,
