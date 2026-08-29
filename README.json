@@ -32,7 +32,8 @@
                                 "owner": "west-gates",
                                 "repo": "GIRP",
                                 "stars": 6
-                              }
+                              },
+                              "first_seen": "2026-08-29T02:26:40.379Z"
                             }
                           ]
                         }
@@ -68,7 +69,8 @@
                                 "owner": "dtak",
                                 "repo": "tree-regularization-public",
                                 "stars": 80
-                              }
+                              },
+                              "first_seen": "2026-08-29T02:26:40.379Z"
                             }
                           ]
                         }
@@ -116,7 +118,8 @@
                             "owner": "Changgang-Zheng",
                             "repo": "HD-CNN",
                             "stars": 10
-                          }
+                          },
+                          "first_seen": "2026-08-29T02:26:40.379Z"
                         }
                       ]
                     },
@@ -138,7 +141,8 @@
                             "owner": "PRIS-CV",
                             "repo": "Fine-Grained-or-Not",
                             "stars": 65
-                          }
+                          },
+                          "first_seen": "2026-08-29T02:26:40.379Z"
                         }
                       ]
                     }
@@ -167,7 +171,8 @@
                             "owner": "MonsterZhZh",
                             "repo": "HRN",
                             "stars": 60
-                          }
+                          },
+                          "first_seen": "2026-08-29T02:26:40.379Z"
                         }
                       ]
                     }
@@ -203,7 +208,8 @@
                             "owner": "EGiunchiglia",
                             "repo": "C-HMCNN",
                             "stars": 90
-                          }
+                          },
+                          "first_seen": "2026-08-29T02:26:40.379Z"
                         }
                       ]
                     }
@@ -232,7 +238,8 @@
                             "owner": "kylemin",
                             "repo": "HEX-graph",
                             "stars": 19
-                          }
+                          },
+                          "first_seen": "2026-08-29T02:26:40.379Z"
                         }
                       ]
                     }
@@ -268,7 +275,8 @@
                             "owner": "jean4599",
                             "repo": "DeViSE",
                             "stars": 18
-                          }
+                          },
+                          "first_seen": "2026-08-29T02:26:40.379Z"
                         }
                       ]
                     }
@@ -297,7 +305,8 @@
                             "owner": "cvjena",
                             "repo": "semantic-embeddings",
                             "stars": 268
-                          }
+                          },
+                          "first_seen": "2026-08-29T02:26:40.379Z"
                         }
                       ]
                     }
@@ -326,7 +335,8 @@
                             "owner": "ankitdhall",
                             "repo": "learning_embeddings",
                             "stars": 22
-                          }
+                          },
+                          "first_seen": "2026-08-29T02:26:40.379Z"
                         }
                       ]
                     }
@@ -371,7 +381,8 @@
                                 "owner": "oir",
                                 "repo": "budding-tree",
                                 "stars": 8
-                              }
+                              },
+                              "first_seen": "2026-08-29T02:26:40.379Z"
                             }
                           ]
                         }
@@ -407,7 +418,8 @@
                                 "owner": "alvinwan",
                                 "repo": "nbdt-pytorch-image-models",
                                 "stars": 16
-                              }
+                              },
+                              "first_seen": "2026-08-29T02:26:40.379Z"
                             }
                           ]
                         }
@@ -436,7 +448,8 @@
                                 "owner": "kimhc6028",
                                 "repo": "soft-decision-tree",
                                 "stars": 306
-                              }
+                              },
+                              "first_seen": "2026-08-29T02:26:40.379Z"
                             }
                           ]
                         },
@@ -458,7 +471,8 @@
                                 "owner": "jingxil",
                                 "repo": "Neural-Decision-Forests",
                                 "stars": 166
-                              }
+                              },
+                              "first_seen": "2026-08-29T02:26:40.379Z"
                             }
                           ]
                         },
@@ -480,7 +494,8 @@
                                 "owner": "Sakura03",
                                 "repo": "age_trans",
                                 "stars": 9
-                              }
+                              },
+                              "first_seen": "2026-08-29T02:26:40.379Z"
                             }
                           ]
                         },
@@ -502,7 +517,8 @@
                                 "owner": "M-Nauta",
                                 "repo": "ProtoTree",
                                 "stars": 111
-                              }
+                              },
+                              "first_seen": "2026-08-29T02:26:40.379Z"
                             }
                           ]
                         }
@@ -531,7 +547,8 @@
                                 "owner": "kimhc6028",
                                 "repo": "soft-decision-tree",
                                 "stars": 306
-                              }
+                              },
+                              "first_seen": "2026-08-29T02:26:40.379Z"
                             }
                           ]
                         }
@@ -572,7 +589,8 @@
                             "owner": "wOOL",
                             "repo": "DNDT",
                             "stars": 165
-                          }
+                          },
+                          "first_seen": "2026-08-29T02:26:40.379Z"
                         }
                       ]
                     },
@@ -594,7 +612,8 @@
                             "owner": "jumpsnack",
                             "repo": "ViT-NeT",
                             "stars": 41
-                          }
+                          },
+                          "first_seen": "2026-08-29T02:26:40.379Z"
                         }
                       ]
                     }
@@ -623,7 +642,8 @@
                             "owner": "rtanno21609",
                             "repo": "AdaptiveNeuralTrees",
                             "stars": 156
-                          }
+                          },
+                          "first_seen": "2026-08-29T02:26:40.379Z"
                         }
                       ]
                     },
@@ -645,7 +665,8 @@
                             "owner": "HollyLee2000",
                             "repo": "SeBoW-paddle",
                             "stars": 11
-                          }
+                          },
+                          "first_seen": "2026-08-29T02:26:40.379Z"
                         }
                       ]
                     }
@@ -666,7 +687,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T03:51:35.363Z",
+    "last_updated": "2026-08-29T02:26:40.379Z",
     "original_repository_info": {
       "archived": false,
       "id": 531176012,
