@@ -26,12 +26,17 @@
                               "children": [],
                               "repo_info": {
                                 "archived": false,
+                                "description": "Global Model Interpretation via Recursive Partitioning",
+                                "homepage": null,
                                 "id": 171407601,
                                 "language": "Python",
+                                "license": null,
                                 "last_commit": "2019-09-26T07:19:15Z",
+                                "open_issues": 1,
                                 "owner": "west-gates",
                                 "repo": "GIRP",
-                                "stars": 6
+                                "stars": 6,
+                                "topics": []
                               },
                               "first_seen": "2026-08-29T02:26:40.379Z"
                             }
@@ -63,12 +68,17 @@
                               "children": [],
                               "repo_info": {
                                 "archived": false,
+                                "description": "Code for AAAI 2018 accepted paper: \"Beyond Sparsity: Tree Regularization of Deep Models for Interpretability\"",
+                                "homepage": null,
                                 "id": 110891022,
                                 "language": "Python",
+                                "license": "MIT",
                                 "last_commit": "2018-01-04T15:33:13Z",
+                                "open_issues": 4,
                                 "owner": "dtak",
                                 "repo": "tree-regularization-public",
-                                "stars": 80
+                                "stars": 80,
+                                "topics": []
                               },
                               "first_seen": "2026-08-29T02:26:40.379Z"
                             }
@@ -112,12 +122,17 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "The realization of paper 'HD-CNN: Hierarchical Deep Convolutional Neural Networks for Large Scale Visual Recognition'",
+                            "homepage": null,
                             "id": 218315927,
                             "language": "Python",
+                            "license": null,
                             "last_commit": "2025-12-18T10:08:07Z",
+                            "open_issues": 1,
                             "owner": "Changgang-Zheng",
                             "repo": "HD-CNN",
-                            "stars": 10
+                            "stars": 10,
+                            "topics": []
                           },
                           "first_seen": "2026-08-29T02:26:40.379Z"
                         }
@@ -135,12 +150,23 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "Code release for Your “Flamingo” is My “Bird”: Fine-Grained, or Not (CVPR 2021 Oral)",
+                            "homepage": null,
                             "id": 344651467,
                             "language": "Python",
+                            "license": "MIT",
                             "last_commit": "2023-09-27T13:56:52Z",
+                            "open_issues": 1,
                             "owner": "PRIS-CV",
                             "repo": "Fine-Grained-or-Not",
-                            "stars": 65
+                            "stars": 65,
+                            "topics": [
+                              "fine-grained",
+                              "fine-grained-classification",
+                              "fine-grained-visual-categorization",
+                              "hierarchy-analysis",
+                              "multi-task-learning"
+                            ]
                           },
                           "first_seen": "2026-08-29T02:26:40.379Z"
                         }
@@ -165,12 +191,17 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "Implementation for Label Relation Graphs Enhanced Hierarchical Residual Network for Hierarchical Multi-Granularity Classification",
+                            "homepage": null,
                             "id": 473471043,
                             "language": "Python",
+                            "license": "Apache-2.0",
                             "last_commit": "2022-03-24T12:03:43Z",
+                            "open_issues": 4,
                             "owner": "MonsterZhZh",
                             "repo": "HRN",
-                            "stars": 60
+                            "stars": 60,
+                            "topics": []
                           },
                           "first_seen": "2026-08-29T02:26:40.379Z"
                         }
@@ -202,12 +233,17 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "Code for paper: \"Coherent Hierarchical Multi-Label Classification Networks\"",
+                            "homepage": null,
                             "id": 301425899,
                             "language": "Python",
+                            "license": "GPL-3.0",
                             "last_commit": "2023-05-04T07:59:01Z",
+                            "open_issues": 1,
                             "owner": "EGiunchiglia",
                             "repo": "C-HMCNN",
-                            "stars": 90
+                            "stars": 90,
+                            "topics": []
                           },
                           "first_seen": "2026-08-29T02:26:40.379Z"
                         }
@@ -232,12 +268,22 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "Implementation of the HEX graph described in the paper of Large-Scale Object Classification using Label Relation Graphs (ECCV 2014)",
+                            "homepage": null,
                             "id": 94880578,
                             "language": "Matlab",
+                            "license": "MIT",
                             "last_commit": "2017-07-06T04:26:42Z",
+                            "open_issues": 1,
                             "owner": "kylemin",
                             "repo": "HEX-graph",
-                            "stars": 19
+                            "stars": 19,
+                            "topics": [
+                              "eccv",
+                              "eccv2014",
+                              "hex",
+                              "hex-graph"
+                            ]
                           },
                           "first_seen": "2026-08-29T02:26:40.379Z"
                         }
@@ -269,12 +315,17 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "Implement DeViSE: A Deep Visual-Semantic Embedding Model",
+                            "homepage": null,
                             "id": 110724753,
                             "language": "Jupyter Notebook",
+                            "license": null,
                             "last_commit": "2018-01-15T03:03:53Z",
+                            "open_issues": 0,
                             "owner": "jean4599",
                             "repo": "DeViSE",
-                            "stars": 18
+                            "stars": 18,
+                            "topics": []
                           },
                           "first_seen": "2026-08-29T02:26:40.379Z"
                         }
@@ -299,12 +350,28 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "Hierarchy-based Image Embeddings for Semantic Image Retrieval",
+                            "homepage": null,
                             "id": 156841423,
                             "language": "Python",
+                            "license": "MIT",
                             "last_commit": "2021-04-26T08:40:50Z",
+                            "open_issues": 1,
                             "owner": "cvjena",
                             "repo": "semantic-embeddings",
-                            "stars": 268
+                            "stars": 268,
+                            "topics": [
+                              "computer-vision",
+                              "deep-learning",
+                              "image-retrieval",
+                              "keras",
+                              "machine-learning",
+                              "prior-knowledge",
+                              "representation-learning",
+                              "wacv19",
+                              "wacv2019",
+                              "wacv2020"
+                            ]
                           },
                           "first_seen": "2026-08-29T02:26:40.379Z"
                         }
@@ -329,12 +396,24 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "Code for CVPR-W 2020 paper \"Hierarchical Image Classification using Entailment Cone Embeddings\" https://arxiv.org/abs/2004.03459",
+                            "homepage": "https://ankitdhall.github.io/project/learning-representations-for-images-with-hierarchical-labels/",
                             "id": 172055744,
                             "language": "Python",
+                            "license": null,
                             "last_commit": "2023-02-02T05:19:18Z",
+                            "open_issues": 13,
                             "owner": "ankitdhall",
                             "repo": "learning_embeddings",
-                            "stars": 22
+                            "stars": 22,
+                            "topics": [
+                              "cvpr-2020",
+                              "fine-grained-classification",
+                              "hyperbolic-embeddings",
+                              "image-classification",
+                              "non-euclidean-geometry",
+                              "representation-learning"
+                            ]
                           },
                           "first_seen": "2026-08-29T02:26:40.379Z"
                         }
@@ -375,12 +454,17 @@
                               "children": [],
                               "repo_info": {
                                 "archived": false,
+                                "description": "Budding tree (code for ICPR22 2014 paper)",
+                                "homepage": null,
                                 "id": 23286324,
                                 "language": "C++",
+                                "license": null,
                                 "last_commit": "2014-08-24T16:43:45Z",
+                                "open_issues": 0,
                                 "owner": "oir",
                                 "repo": "budding-tree",
-                                "stars": 8
+                                "stars": 8,
+                                "topics": []
                               },
                               "first_seen": "2026-08-29T02:26:40.379Z"
                             }
@@ -412,12 +496,22 @@
                               "children": [],
                               "repo_info": {
                                 "archived": false,
+                                "description": "Neural-Backed Decision Tree sample integration with pytorch-image-models",
+                                "homepage": "http://nbdt.alvinwan.com",
                                 "id": 246800413,
                                 "language": "Python",
+                                "license": "Apache-2.0",
                                 "last_commit": "2020-09-18T23:02:04Z",
+                                "open_issues": 0,
                                 "owner": "alvinwan",
                                 "repo": "nbdt-pytorch-image-models",
-                                "stars": 16
+                                "stars": 16,
+                                "topics": [
+                                  "efficientnet",
+                                  "imagenet",
+                                  "neural-backed-decision-trees",
+                                  "pytorch"
+                                ]
                               },
                               "first_seen": "2026-08-29T02:26:40.379Z"
                             }
@@ -442,12 +536,17 @@
                               "children": [],
                               "repo_info": {
                                 "archived": false,
+                                "description": "pytorch implementation of \"Distilling a Neural Network Into a Soft Decision Tree\"",
+                                "homepage": "https://arxiv.org/pdf/1711.09784.pdf",
                                 "id": 113509037,
                                 "language": "Python",
+                                "license": "BSD-3-Clause",
                                 "last_commit": "2018-12-23T09:53:45Z",
+                                "open_issues": 13,
                                 "owner": "kimhc6028",
                                 "repo": "soft-decision-tree",
-                                "stars": 306
+                                "stars": 306,
+                                "topics": []
                               },
                               "first_seen": "2026-08-29T02:26:40.379Z"
                             }
@@ -465,12 +564,19 @@
                               "children": [],
                               "repo_info": {
                                 "archived": false,
+                                "description": "An implementation of the Deep Neural Decision Forests in PyTorch",
+                                "homepage": null,
                                 "id": 119330878,
                                 "language": "Python",
+                                "license": "MIT",
                                 "last_commit": "2019-06-28T02:38:02Z",
+                                "open_issues": 1,
                                 "owner": "jingxil",
                                 "repo": "Neural-Decision-Forests",
-                                "stars": 166
+                                "stars": 166,
+                                "topics": [
+                                  "pytorch"
+                                ]
                               },
                               "first_seen": "2026-08-29T02:26:40.379Z"
                             }
@@ -488,12 +594,17 @@
                               "children": [],
                               "repo_info": {
                                 "archived": false,
+                                "description": "Deep Regression Forest for Age Estimation",
+                                "homepage": null,
                                 "id": 169833857,
                                 "language": "Python",
+                                "license": null,
                                 "last_commit": "2019-02-11T06:29:55Z",
+                                "open_issues": 0,
                                 "owner": "Sakura03",
                                 "repo": "age_trans",
-                                "stars": 9
+                                "stars": 9,
+                                "topics": []
                               },
                               "first_seen": "2026-08-29T02:26:40.379Z"
                             }
@@ -511,12 +622,31 @@
                               "children": [],
                               "repo_info": {
                                 "archived": false,
+                                "description": "ProtoTrees: Neural Prototype Trees for Interpretable Fine-grained Image Recognition, published at CVPR2021",
+                                "homepage": null,
                                 "id": 317840138,
                                 "language": "Python",
+                                "license": "MIT",
                                 "last_commit": "2022-06-30T06:17:49Z",
+                                "open_issues": 4,
                                 "owner": "M-Nauta",
                                 "repo": "ProtoTree",
-                                "stars": 111
+                                "stars": 111,
+                                "topics": [
+                                  "computer-vision",
+                                  "cvpr2021",
+                                  "decision-trees",
+                                  "deep-neural-networks",
+                                  "explainability",
+                                  "explainable-ai",
+                                  "explainable-ml",
+                                  "fine-grained-classification",
+                                  "fine-grained-visual-categorization",
+                                  "interpretability",
+                                  "interpretable-deep-learning",
+                                  "interpretable-machine-learning",
+                                  "pytorch"
+                                ]
                               },
                               "first_seen": "2026-08-29T02:26:40.379Z"
                             }
@@ -541,12 +671,17 @@
                               "children": [],
                               "repo_info": {
                                 "archived": false,
+                                "description": "pytorch implementation of \"Distilling a Neural Network Into a Soft Decision Tree\"",
+                                "homepage": "https://arxiv.org/pdf/1711.09784.pdf",
                                 "id": 113509037,
                                 "language": "Python",
+                                "license": "BSD-3-Clause",
                                 "last_commit": "2018-12-23T09:53:45Z",
+                                "open_issues": 13,
                                 "owner": "kimhc6028",
                                 "repo": "soft-decision-tree",
-                                "stars": 306
+                                "stars": 306,
+                                "topics": []
                               },
                               "first_seen": "2026-08-29T02:26:40.379Z"
                             }
@@ -583,12 +718,17 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "Deep Neural Decision Trees",
+                            "homepage": null,
                             "id": 72250380,
                             "language": "Jupyter Notebook",
+                            "license": "Unlicense",
                             "last_commit": "2022-03-18T11:02:05Z",
+                            "open_issues": 2,
                             "owner": "wOOL",
                             "repo": "DNDT",
-                            "stars": 165
+                            "stars": 165,
+                            "topics": []
                           },
                           "first_seen": "2026-08-29T02:26:40.379Z"
                         }
@@ -606,12 +746,17 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": null,
+                            "homepage": null,
                             "id": 479920364,
                             "language": "Python",
+                            "license": null,
                             "last_commit": "2025-10-15T02:08:40Z",
+                            "open_issues": 4,
                             "owner": "jumpsnack",
                             "repo": "ViT-NeT",
-                            "stars": 41
+                            "stars": 41,
+                            "topics": []
                           },
                           "first_seen": "2026-08-29T02:26:40.379Z"
                         }
@@ -636,12 +781,17 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "Adaptive Neural Trees ",
+                            "homepage": null,
                             "id": 185573030,
                             "language": "Jupyter Notebook",
+                            "license": "MIT",
                             "last_commit": "2019-07-03T10:52:28Z",
+                            "open_issues": 2,
                             "owner": "rtanno21609",
                             "repo": "AdaptiveNeuralTrees",
-                            "stars": 156
+                            "stars": 156,
+                            "topics": []
                           },
                           "first_seen": "2026-08-29T02:26:40.379Z"
                         }
@@ -659,12 +809,17 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "This is the paddle code for SeBoW(Self-Born wiring for neural trees), a kind of neural tree born form a large search space",
+                            "homepage": null,
                             "id": 436556283,
                             "language": "Python",
+                            "license": null,
                             "last_commit": "2021-12-10T09:38:09Z",
+                            "open_issues": 0,
                             "owner": "HollyLee2000",
                             "repo": "SeBoW-paddle",
-                            "stars": 11
+                            "stars": 11,
+                            "topics": []
                           },
                           "first_seen": "2026-08-29T02:26:40.379Z"
                         }
@@ -687,15 +842,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:26:40.379Z",
+    "last_updated": "2026-08-29T05:01:16.409Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Introduction, selected papers and possible corresponding codes in our review paper \"A Survey of Neural Trees\"",
+      "homepage": null,
       "id": 531176012,
       "language": null,
+      "license": "Apache-2.0",
       "last_commit": "2022-11-16T12:19:10Z",
+      "open_issues": 0,
       "owner": "zju-vipa",
       "repo": "awesome-neural-trees",
-      "stars": 86
+      "stars": 86,
+      "topics": [
+        "awesome-list",
+        "decision-trees",
+        "explainable-artificial-intelligence",
+        "interpretability",
+        "interpretable-machine-learning",
+        "neural-networks"
+      ]
     },
     "original_repository_sha": "dc386dc8d5eeb4648d9a6aa908cd0456911fa43b",
     "enhanced_repository": "enhansome/enhansome-neural-trees",
