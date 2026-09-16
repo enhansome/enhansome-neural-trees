@@ -159,7 +159,7 @@
                             "open_issues": 1,
                             "owner": "PRIS-CV",
                             "repo": "Fine-Grained-or-Not",
-                            "stars": 65,
+                            "stars": 66,
                             "topics": [
                               "fine-grained",
                               "fine-grained-classification",
@@ -842,7 +842,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T22:26:01.904Z",
+    "last_updated": "2026-09-16T22:18:42.786Z",
     "original_repository_info": {
       "archived": false,
       "description": "Introduction, selected papers and possible corresponding codes in our review paper \"A Survey of Neural Trees\"",
