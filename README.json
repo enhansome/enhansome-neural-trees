@@ -22,7 +22,7 @@
                             {
                               "node_type": "item",
                               "title": "west-gates/GIRP",
-                              "description": "[Code]",
+                              "description": "west-gates/GIRP",
                               "children": [],
                               "repo_info": {
                                 "archived": false,
@@ -64,7 +64,7 @@
                             {
                               "node_type": "item",
                               "title": "dtak/tree-regularization-public",
-                              "description": "[Code]",
+                              "description": "dtak/tree-regularization-public",
                               "children": [],
                               "repo_info": {
                                 "archived": false,
@@ -118,7 +118,7 @@
                         {
                           "node_type": "item",
                           "title": "Changgang-Zheng/HD-CNN",
-                          "description": "[Code]",
+                          "description": "Changgang-Zheng/HD-CNN",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -146,7 +146,7 @@
                         {
                           "node_type": "item",
                           "title": "PRIS-CV/Fine-Grained-or-Not",
-                          "description": "[Code]",
+                          "description": "PRIS-CV/Fine-Grained-or-Not",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -187,7 +187,7 @@
                         {
                           "node_type": "item",
                           "title": "MonsterZhZh/HRN",
-                          "description": "[Code]",
+                          "description": "MonsterZhZh/HRN",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -229,7 +229,7 @@
                         {
                           "node_type": "item",
                           "title": "EGiunchiglia/C-HMCNN",
-                          "description": "[Code]",
+                          "description": "EGiunchiglia/C-HMCNN",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -264,7 +264,7 @@
                         {
                           "node_type": "item",
                           "title": "kylemin/HEX-graph",
-                          "description": "[Code]",
+                          "description": "kylemin/HEX-graph",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -311,7 +311,7 @@
                         {
                           "node_type": "item",
                           "title": "jean4599/DeViSE",
-                          "description": "[Code]",
+                          "description": "jean4599/DeViSE",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -346,7 +346,7 @@
                         {
                           "node_type": "item",
                           "title": "cvjena/semantic-embeddings",
-                          "description": "[Code]",
+                          "description": "cvjena/semantic-embeddings",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -392,7 +392,7 @@
                         {
                           "node_type": "item",
                           "title": "ankitdhall/learning_embeddings",
-                          "description": "[Code]",
+                          "description": "ankitdhall/learning_embeddings",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -450,7 +450,7 @@
                             {
                               "node_type": "item",
                               "title": "oir/budding-tree",
-                              "description": "[Code]",
+                              "description": "oir/budding-tree",
                               "children": [],
                               "repo_info": {
                                 "archived": false,
@@ -492,7 +492,7 @@
                             {
                               "node_type": "item",
                               "title": "alvinwan/nbdt-pytorch-image-models",
-                              "description": "[Code]",
+                              "description": "alvinwan/nbdt-pytorch-image-models",
                               "children": [],
                               "repo_info": {
                                 "archived": false,
@@ -532,7 +532,7 @@
                             {
                               "node_type": "item",
                               "title": "kimhc6028/soft-decision-tree",
-                              "description": "[Code]",
+                              "description": "kimhc6028/soft-decision-tree",
                               "children": [],
                               "repo_info": {
                                 "archived": false,
@@ -560,7 +560,7 @@
                             {
                               "node_type": "item",
                               "title": "jingxil/Neural-Decision-Forests",
-                              "description": "[Code]",
+                              "description": "jingxil/Neural-Decision-Forests",
                               "children": [],
                               "repo_info": {
                                 "archived": false,
@@ -590,7 +590,7 @@
                             {
                               "node_type": "item",
                               "title": "Sakura03/age_trans",
-                              "description": "[Code]",
+                              "description": "Sakura03/age_trans",
                               "children": [],
                               "repo_info": {
                                 "archived": false,
@@ -618,7 +618,7 @@
                             {
                               "node_type": "item",
                               "title": "M-Nauta/ProtoTree",
-                              "description": "[Code]",
+                              "description": "M-Nauta/ProtoTree",
                               "children": [],
                               "repo_info": {
                                 "archived": false,
@@ -667,7 +667,7 @@
                             {
                               "node_type": "item",
                               "title": "kimhc6028/soft-decision-tree",
-                              "description": "[Code]",
+                              "description": "kimhc6028/soft-decision-tree",
                               "children": [],
                               "repo_info": {
                                 "archived": false,
@@ -714,7 +714,7 @@
                         {
                           "node_type": "item",
                           "title": "wOOL/DNDT",
-                          "description": "[Code]",
+                          "description": "wOOL/DNDT",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -742,7 +742,7 @@
                         {
                           "node_type": "item",
                           "title": "jumpsnack/ViT-NeT",
-                          "description": "[Code]",
+                          "description": "jumpsnack/ViT-NeT",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -777,7 +777,7 @@
                         {
                           "node_type": "item",
                           "title": "rtanno21609/AdaptiveNeuralTrees",
-                          "description": "[Code]",
+                          "description": "rtanno21609/AdaptiveNeuralTrees",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -805,7 +805,7 @@
                         {
                           "node_type": "item",
                           "title": "HollyLee2000/SeBoW-paddle",
-                          "description": "[Code]",
+                          "description": "HollyLee2000/SeBoW-paddle",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -842,7 +842,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:15:19.242Z",
+    "last_updated": "2026-10-03T04:56:49.583Z",
     "original_repository_info": {
       "archived": false,
       "description": "Introduction, selected papers and possible corresponding codes in our review paper \"A Survey of Neural Trees\"",
