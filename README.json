@@ -156,7 +156,7 @@
                             "language": "Python",
                             "license": "MIT",
                             "last_commit": "2023-09-27T13:56:52Z",
-                            "open_issues": 1,
+                            "open_issues": 2,
                             "owner": "PRIS-CV",
                             "repo": "Fine-Grained-or-Not",
                             "stars": 66,
@@ -842,7 +842,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T21:52:29.106Z",
+    "last_updated": "2026-10-25T22:02:13.471Z",
     "original_repository_info": {
       "archived": false,
       "description": "Introduction, selected papers and possible corresponding codes in our review paper \"A Survey of Neural Trees\"",
