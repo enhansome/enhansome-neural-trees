@@ -479,7 +479,7 @@ priors or algorithms such that induce the class hierarchy.
     * Samuel Rota Bulo, Peter Kontschieder *(decision forests for semantic image labelling)*
     * [\[Paper\]](https://www.cv-foundation.org/openaccess/content_cvpr_2014/html/Bulo_Neural_Decision_Forests_2014_CVPR_paper.html)
   * **"Neural Prototype Trees for Interpretable Fine-Grained Image Recognition"**, CVPR, 2021
-    * [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2021/html/Nauta_Neural_Prototype_Trees_for_Interpretable_Fine-Grained_Image_Recognition_CVPR_2021_paper.html?ref=https://githubhelp.com) [\[Code\]](https://github.com/M-Nauta/ProtoTree) ⭐ 111 | 🐛 4 | 🌐 Python | 📅 2022-06-30
+    * [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2021/html/Nauta_Neural_Prototype_Trees_for_Interpretable_Fine-Grained_Image_Recognition_CVPR_2021_paper.html?ref=https://githubhelp.com) [\[Code\]](https://github.com/M-Nauta/ProtoTree) ⭐ 110 | 🐛 4 | 🌐 Python | 📅 2022-06-30
     * WMeike Nauta, Ron van Bree, Christin Seifert *(prototype-based ante-hoc methods)*
   * **"Learn decision trees with deep visual primitives"**, SSRN, 2022
     * Mengqi Xue, *et al*
@@ -545,4 +545,4 @@ leaf nodes are usually classifiers rather than determined classes or distributio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
