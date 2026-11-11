@@ -346,7 +346,7 @@ represent the semantic relationships.
 
 * ***Embeddings whose pair-wise dot products correspond to semantic similarity between classes***
   * **"Hierarchy-Based Image Embeddings for Semantic Image Retrieval"**, WACV, 2019
-    * [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/8658633) [\[Code\]](https://github.com/cvjena/semantic-embeddings) ⭐ 268 | 🐛 1 | 🌐 Python | 📅 2021-04-26
+    * [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/8658633) [\[Code\]](https://github.com/cvjena/semantic-embeddings) ⭐ 269 | 🐛 1 | 🌐 Python | 📅 2021-04-26
     * Björn Barz, Joachim Denzler
 
 * **Employ the entailment cones to learn order-preserving embeddings**
@@ -545,4 +545,4 @@ leaf nodes are usually classifiers rather than determined classes or distributio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._

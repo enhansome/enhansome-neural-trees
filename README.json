@@ -359,7 +359,7 @@
                             "open_issues": 1,
                             "owner": "cvjena",
                             "repo": "semantic-embeddings",
-                            "stars": 268,
+                            "stars": 269,
                             "topics": [
                               "computer-vision",
                               "deep-learning",
@@ -842,7 +842,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T02:23:12.418Z",
+    "last_updated": "2026-11-11T00:14:51.765Z",
     "original_repository_info": {
       "archived": false,
       "description": "Introduction, selected papers and possible corresponding codes in our review paper \"A Survey of Neural Trees\"",
