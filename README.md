@@ -351,7 +351,7 @@ represent the semantic relationships.
 
 * **Employ the entailment cones to learn order-preserving embeddings**
   * **"Hierarchical Image Classification Using Entailment Cone Embeddings"**, CVPR, 2020
-    * [\[Paper\]](https://openaccess.thecvf.com/content_CVPRW_2020/html/w50/Dhall_Hierarchical_Image_Classification_Using_Entailment_Cone_Embeddings_CVPRW_2020_paper.html) [\[Code\]](https://github.com/ankitdhall/learning_embeddings) ⭐ 22 | 🐛 13 | 🌐 Python | 📅 2023-02-02
+    * [\[Paper\]](https://openaccess.thecvf.com/content_CVPRW_2020/html/w50/Dhall_Hierarchical_Image_Classification_Using_Entailment_Cone_Embeddings_CVPRW_2020_paper.html) [\[Code\]](https://github.com/ankitdhall/learning_embeddings) ⭐ 23 | 🐛 13 | 🌐 Python | 📅 2023-02-02
     * Ankit Dhall *et al.*
 
 * ***Label embeddings in zero-shot classification***
@@ -545,4 +545,4 @@ leaf nodes are usually classifiers rather than determined classes or distributio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._

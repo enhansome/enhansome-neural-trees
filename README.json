@@ -405,7 +405,7 @@
                             "open_issues": 13,
                             "owner": "ankitdhall",
                             "repo": "learning_embeddings",
-                            "stars": 22,
+                            "stars": 23,
                             "topics": [
                               "cvpr-2020",
                               "fine-grained-classification",
@@ -842,7 +842,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T00:14:51.765Z",
+    "last_updated": "2026-11-12T01:40:10.205Z",
     "original_repository_info": {
       "archived": false,
       "description": "Introduction, selected papers and possible corresponding codes in our review paper \"A Survey of Neural Trees\"",
