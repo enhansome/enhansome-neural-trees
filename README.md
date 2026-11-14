@@ -304,7 +304,7 @@ class hierarchy.
     * Renzhen Wang, *et al* *(propose label hierarchy transition matrices whose column vectors represent the conditional label distributions of classes between two adjacent hierarchies)*
     * [\[Paper\]](https://arxiv.org/abs/2112.02353)
   * **"Label Relation Graphs Enhanced Hierarchical Residual Network for Hierarchical Multi-Granularity Classification"**, CVPR, 2022
-    * [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_Label_Relation_Graphs_Enhanced_Hierarchical_Residual_Network_for_Hierarchical_Multi-Granularity_CVPR_2022_paper.html) [\[Code\]](https://github.com/MonsterZhZh/HRN) ⭐ 60 | 🐛 4 | 🌐 Python | 📅 2022-03-24
+    * [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_Label_Relation_Graphs_Enhanced_Hierarchical_Residual_Network_for_Hierarchical_Multi-Granularity_CVPR_2022_paper.html) [\[Code\]](https://github.com/MonsterZhZh/HRN) ⭐ 61 | 🐛 4 | 🌐 Python | 📅 2022-03-24
     * Jingzhou Chen *et al.* *(propose the hierarchical residual network in which granularity-specific features from parent levels are added to features in children levels.)*
 
 #### 2.2 Hierarchical Loss Function.
@@ -545,4 +545,4 @@ leaf nodes are usually classifiers rather than determined classes or distributio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._

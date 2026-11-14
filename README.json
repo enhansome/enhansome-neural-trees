@@ -200,7 +200,7 @@
                             "open_issues": 4,
                             "owner": "MonsterZhZh",
                             "repo": "HRN",
-                            "stars": 60,
+                            "stars": 61,
                             "topics": []
                           },
                           "first_seen": "2026-08-29T02:26:40.379Z"
@@ -842,7 +842,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T00:40:41.454Z",
+    "last_updated": "2026-11-14T00:27:59.381Z",
     "original_repository_info": {
       "archived": false,
       "description": "Introduction, selected papers and possible corresponding codes in our review paper \"A Survey of Neural Trees\"",
