@@ -314,7 +314,7 @@ predictions coherent with the pre-defined class hierarchy.
 
 * ***Predict at each grain separately, *i.e.*, first take a model pre-trained on one level, then tune it using labels from other levels***
   * **"Coherent Hierarchical Multi-Label Classification Networks"**, NIPS, 2020
-    * [\[Paper\]](https://proceedings.neurips.cc/paper/2020/hash/6dd4e10e3296fa63738371ec0d5df818-Abstract.html) [\[Code\]](https://github.com/EGiunchiglia/C-HMCNN) ⭐ 90 | 🐛 1 | 🌐 Python | 📅 2023-05-04
+    * [\[Paper\]](https://proceedings.neurips.cc/paper/2020/hash/6dd4e10e3296fa63738371ec0d5df818-Abstract.html) [\[Code\]](https://github.com/EGiunchiglia/C-HMCNN) ⭐ 91 | 🐛 1 | 🌐 Python | 📅 2023-05-04
     * Eleonora Giunchiglia, Thomas Lukasiewicz
   * **"Learning Hierarchical Visual Representations in Deep Neural Networks Using Hierarchical Linguistic Labels"**, arXiv, 2018
     * Joshua C Peterson *et al.*
@@ -545,4 +545,4 @@ leaf nodes are usually classifiers rather than determined classes or distributio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._

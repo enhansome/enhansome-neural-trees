@@ -242,7 +242,7 @@
                             "open_issues": 1,
                             "owner": "EGiunchiglia",
                             "repo": "C-HMCNN",
-                            "stars": 90,
+                            "stars": 91,
                             "topics": []
                           },
                           "first_seen": "2026-08-29T02:26:40.379Z"
@@ -842,7 +842,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T01:51:50.973Z",
+    "last_updated": "2026-11-19T01:29:22.349Z",
     "original_repository_info": {
       "archived": false,
       "description": "Introduction, selected papers and possible corresponding codes in our review paper \"A Survey of Neural Trees\"",
