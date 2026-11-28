@@ -790,7 +790,7 @@
                             "open_issues": 2,
                             "owner": "rtanno21609",
                             "repo": "AdaptiveNeuralTrees",
-                            "stars": 156,
+                            "stars": 155,
                             "topics": []
                           },
                           "first_seen": "2026-08-29T02:26:40.379Z"
@@ -842,7 +842,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T02:23:35.487Z",
+    "last_updated": "2026-11-28T02:09:30.629Z",
     "original_repository_info": {
       "archived": false,
       "description": "Introduction, selected papers and possible corresponding codes in our review paper \"A Survey of Neural Trees\"",

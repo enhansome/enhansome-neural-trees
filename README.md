@@ -537,7 +537,7 @@ leaf nodes are usually classifiers rather than determined classes or distributio
 
 * ***Expert NDTs with architecture search phase***
   * **"Adaptive Neural Trees"**, ICML, 2019
-    * [\[Paper\]](http://proceedings.mlr.press/v97/tanno19a.html?utm_campaign=piqcy\&utm_medium=email\&utm_source=Revue%20newsletter) [\[Code\]](https://github.com/rtanno21609/AdaptiveNeuralTrees) ⭐ 156 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2019-07-03
+    * [\[Paper\]](http://proceedings.mlr.press/v97/tanno19a.html?utm_campaign=piqcy\&utm_medium=email\&utm_source=Revue%20newsletter) [\[Code\]](https://github.com/rtanno21609/AdaptiveNeuralTrees) ⭐ 155 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2019-07-03
     * Ryutaro Tanno *et al.* *(greedily choosing the best option between going deeper and splitting the input space)*
   * **"Self-Born Wiring for Neural Trees"**, ICCV, 2021
     * [\[Paper\]](https://openaccess.thecvf.com/content/ICCV2021/html/Chen_Self-Born_Wiring_for_Neural_Trees_ICCV_2021_paper.html) [\[Code\]](https://github.com/HollyLee2000/SeBoW-paddle) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2021-12-10
@@ -545,4 +545,4 @@ leaf nodes are usually classifiers rather than determined classes or distributio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
